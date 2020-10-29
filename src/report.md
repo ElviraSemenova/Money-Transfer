@@ -7,7 +7,7 @@
 На тестирование затрачено: 0,5 часа.
 
 В результате тестирования выявлены следующие дефекты:
-* [Использование неверных переменных в приложении Money Transfer](https://github.com/ShalopaykaQA/Money-Transfer/issues/1)
+* [Неправильный подсчет в приложении Money Transfer](https://github.com/ShalopaykaQA/Money-Transfer/issues/1)
 
 ## Описание процесса тестирования
 
